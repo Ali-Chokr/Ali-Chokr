@@ -1,5 +1,8 @@
 # 👋 About Me:
-Hi, I'm **Ali Chokr**. I am a Software Engineering student at **Polytechnique Montréal** with a strong focus on **Database Administration**, **Cloud Infrastructure**, and **DevSecOps**. I am currently interning as a **Database Developer** at CIUSSS du Centre-Sud-de-l'Île-de-Montréal, where I am migrating 800+ Oracle databases to cloud infrastructure and automating provisioning, patching, and backups with Ansible. My core mission is to build reliable, secure data platforms and developer tooling that help engineering teams ship faster with confidence.
+Hi, I'm **Ali Chokr**. I am a Software Engineering student at **Polytechnique Montréal** with a strong focus on **Database Administration**, **Cloud Infrastructure**, and **DevSecOps**. 
+
+## 🔭 What I'm doing now
+Software Development & Geospatial Visualization Intern at Environment and Climate Change Canada (Sept – Dec 2026): building an interactive Python cartographic tool for probabilistic ensemble-forecast data, replacing legacy static image generators.
 
 ## 💻 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-chokr)
