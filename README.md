@@ -54,3 +54,6 @@ Software Development & Geospatial Visualization Intern at Environment and Climat
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📫 Reach me
+chokr.ali005@hotmail.com · +1 (514) 219-9809 · Montréal, QC
